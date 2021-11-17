@@ -24,7 +24,7 @@ public class XX extends Thread	{
 	Object o_2;
 	static boolean oneIsRunning = false;
 	Object stop;
-					     
+
 	public XX (String info, Object o_1, Object o_2, Object stop) {
 		this.info    = info;
 		this.o_1    = o_1;

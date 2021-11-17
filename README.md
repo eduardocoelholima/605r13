@@ -5,52 +5,43 @@ as some notes used in RIT course CSCI605's recitation
 sessions.
 
 ---
+
 ### Reminders
 - As always, the link to these files is available on your 605 mycourses page
 , header Schedule: https://github.com/eduardocoelholima/605r13
-- Finals week is approaching. Be sure to start reviewing the subjects as soon
- as possible.
-- Get enough sleep, eat well, drink plenty of water... you know the drill.
+- Course evals are up. Make sure you fill your evaluations.
 
-
-
-### HW11.1: multi-thread assembly line
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-504.html
-- Questions?
-
-### HW11.2: Multiple Consumer-Producer problem
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-505.html
-- Questions?
-
-### HW11.3: Possible outputs
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-506.html
+### Possible outputs?
 - XX.java
-- Questions?
+
+### Synchronized blocks: Concurrent Code Flow
+- hw10.1.txt
+- X_1{a,b,c,d,e}.java
+
+### Synchronized blocks: Concurrent Code Flow 2
+- OrganizedThreads.java
+- hw10.2.txt
+- hw10-2.tiff
 
 
+### Homeworks
+- HW12.1: Possible outputs with threads
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-484.html
 
+- HW12.2: Relay race
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-485.html
 
-### Last Exam
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-538.html
-- Questions?
+- HW12.3: Modified producer-consumer
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-486.html
 
+- HW13.1: Multi Producer Consumer 
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-488.html
 
+- HW13.2: Hangman over the network
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-489.html
 
-
-### HW12.1: Dining Philosophers
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-508.html
-- Questions?
-
-### HW12.2: Fixing it
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-509.html
-- Questions?
-
-### HW12.3: Network-enabled Battleship game
-- https://cs.rit.edu/~hpb/Lectures/2201/605/605-510.html
-- Questions?
-
-
-
+- HW13.3: Hangman with Datagrams
+https://www.cs.rit.edu/~hpb/Lectures/2211/605/605-490.html
 
 ---
 
