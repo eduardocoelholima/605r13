@@ -14,15 +14,19 @@ sessions.
 ### Possible outputs?
 - XX.java
 
-### Synchronized blocks: Concurrent Code Flow
-- hw10.1.txt
-- X_1{a,b,c,d,e}.java
-
-### Synchronized blocks: Concurrent Code Flow 2
+### Synchronized blocks: round robin sync
 - OrganizedThreads.java
 - hw10.2.txt
 - hw10-2.tiff
 
+### Synchronized blocks: Concurrent Code Flow
+- hw10.1.txt
+- X.java
+- X_1{a,b,c,d,e}.java
+
+### DayTimeServer
+(same as lecture code)
+- {DayTime, DayTimeServer, DayTimeServerMT}.java
 
 ### Homeworks
 - HW12.1: Possible outputs with threads
